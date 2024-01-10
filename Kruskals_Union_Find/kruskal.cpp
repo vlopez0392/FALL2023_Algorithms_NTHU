@@ -3,7 +3,7 @@
     Student: Victor D. Lopez 
     ID: 110062426
     
-    //COMPILE WITH: g++ -Wall -std=c++11 -o bonus4 110062426_bonus4.cpp
+    //COMPILE WITH: g++ -Wall -std=c++11 -o bonus4 kruskal.cpp
 
     //EXECUTE WITH: ./bonus4 
 */

@@ -3,7 +3,7 @@
     Student: Victor D. Lopez
     
 */
-//COMPILE WITH: g++ -Wall -std=c++11 -o bonus2 110062426_bonus2.cpp
+//COMPILE WITH: g++ -Wall -std=c++11 -o bonus2 opt_bst.cpp
 
 #include <iostream>
 #include <vector>
