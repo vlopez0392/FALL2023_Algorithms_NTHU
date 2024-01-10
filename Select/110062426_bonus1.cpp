@@ -1,7 +1,6 @@
 /*
     FALL 2023 CS431102 Bonus programming Assignment 1
     Student: Victor D. Lopez 
-    ID: 110062426
 */
 #include <iostream>
 #include <vector>

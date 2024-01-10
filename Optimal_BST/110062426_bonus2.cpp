@@ -1,7 +1,7 @@
 /*
     FALL 2023 CS431102 Bonus programming Assignment 2
-    Student: Victor D. Lopez 
-    ID: 110062426
+    Student: Victor D. Lopez
+    
 */
 //COMPILE WITH: g++ -Wall -std=c++11 -o bonus2 110062426_bonus2.cpp
 

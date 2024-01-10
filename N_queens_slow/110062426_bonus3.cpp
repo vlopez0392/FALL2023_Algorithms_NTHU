@@ -1,7 +1,7 @@
 /*
     FALL 2023 CS431102 Bonus programming Assignment 3
     Student: Victor D. Lopez 
-    ID: 110062426
+
     //COMPILE WITH: g++ -Wall -std=c++11 -o bonus3 110062426_bonus3.cpp
 
     //EXECUTE WITH: ./bonus3 [n] - where n is the size of the problem
